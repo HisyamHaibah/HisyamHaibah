@@ -1,5 +1,4 @@
-
-<br>Nama: Hisyam Haibah<br>
+Nama: Hisyam Haibah
 <br>Moto hidup: Menjadi kaya hingga bisa melindungi semua orang yang saya sayangi<br>
 <br>Hobi: Mendiskusikan hal menarik<br>
 <br>Kemampuan teknis: Otomasi Industri<br>
