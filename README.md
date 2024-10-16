@@ -1,25 +1,4 @@
-<html>
-<head>
-    <title>Profil Hisyam Haibah</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-        }
-        h1 {
-            text-align: center;
-            color: #333;
-        }
-        h2 {
-            color: #555;
-        }
-        ul {
-            list-style-type: square;
-        }
-    </style>
-</head>
-<body>
-    <h1>Profil Hisyam Haibah</h1>
+  <h1>Profil Hisyam Haibah</h1>
     <h2>Data Diri</h2>
     <ul>
         <li><b>Nama:</b> Hisyam Haibah</li>
